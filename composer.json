@@ -1,0 +1,17 @@
+{
+    "name": "ubuntu/inclusioncloud",
+    "description": "test for inclusion cloud",
+    "require": {
+        "phpunit/phpunit": "10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ubuntu\\Inclusioncloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jeyson rojas"
+        }
+    ]
+}
